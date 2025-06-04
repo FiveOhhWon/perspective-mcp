@@ -1,6 +1,6 @@
 {
   "name": "perspective-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for multi-perspective analysis and structured debates",
   "main": "dist/index.js",
   "bin": {
