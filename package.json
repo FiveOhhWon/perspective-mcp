@@ -13,16 +13,16 @@
     "prepublishOnly": "npm run build"
   },
   "keywords": ["mcp", "modelcontextprotocol", "ai", "perspective", "analysis", "debate"],
-  "author": "",
+  "author": "FiveOhhWon",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/perspective-mcp.git"
+    "url": "https://github.com/FiveOhhWon/perspective-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/perspective-mcp/issues"
+    "url": "https://github.com/FiveOhhWon/perspective-mcp/issues"
   },
-  "homepage": "https://github.com/yourusername/perspective-mcp#readme",
+  "homepage": "https://github.com/FiveOhhWon/perspective-mcp#readme",
   "devDependencies": {
     "@types/node": "^22.15.29",
     "tsx": "^4.19.4",

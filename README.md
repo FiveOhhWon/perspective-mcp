@@ -5,7 +5,7 @@
 A Model Context Protocol (MCP) server that enables AI assistants to analyze problems through multiple professional perspectives and facilitate structured debates between viewpoints.
 
 <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-Compatible-green" alt="MCP Compatible"></a>
-<a href="https://github.com/yourusername/perspective-mcp/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
+<a href="https://github.com/FiveOhhWon/perspective-mcp/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
 
 ## Overview
 
@@ -30,7 +30,7 @@ npx perspective-mcp
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/perspective-mcp.git
+git clone https://github.com/FiveOhhWon/perspective-mcp.git
 cd perspective-mcp
 npm install
 npm run build
