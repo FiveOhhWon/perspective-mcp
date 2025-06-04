@@ -1,5 +1,7 @@
 # Perspective MCP Server
 
+> 🤖 **Co-created with [Claude Code](https://claude.ai/referral/uralRLy1tw)** - Because even AI needs multiple perspectives! 
+
 A Model Context Protocol (MCP) server that enables AI assistants to analyze problems through multiple professional perspectives and facilitate structured debates between viewpoints.
 
 <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-Compatible-green" alt="MCP Compatible"></a>
