@@ -358,11 +358,7 @@ server.setRequestHandler(ListToolsRequestSchema, async () => {
               description: "Alias for nextPerspectiveNeeded for compatibility"
             }
           },
-          required: ["analysis"],
-          oneOf: [
-            { required: ["nextPerspectiveNeeded"] },
-            { required: ["nextThoughtNeeded"] }
-          ]
+          required: ["analysis"]
         }
       },
       {

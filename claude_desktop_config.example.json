@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "perspective": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "perspective-mcp"
+      ]
+    }
+  }
+}
