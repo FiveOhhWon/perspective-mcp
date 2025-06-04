@@ -1,0 +1,15 @@
+{
+  "description": "Example debate configuration for balancing speed vs quality",
+  "topic": "How do we balance rapid feature delivery with technical debt and code quality?",
+  "suggested_participants": ["Product Manager", "Engineering Manager", "Business Analyst"],
+  "example_constraints": [
+    "Budget has been reduced by 20% for next quarter",
+    "Competitor is launching similar features in 2 months",
+    "Customer satisfaction scores must not drop below 4.0"
+  ],
+  "expected_rounds": {
+    "round_1": "Each participant states their initial position on the balance",
+    "round_2": "Participants respond to conflicting priorities from others",
+    "round_3": "Synthesis proposals that address all concerns"
+  }
+}

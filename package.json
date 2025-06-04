@@ -1,0 +1,34 @@
+{
+  "name": "perspective-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for multi-perspective analysis and structured debates",
+  "main": "dist/index.js",
+  "bin": {
+    "perspective-mcp": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["mcp", "modelcontextprotocol", "ai", "perspective", "analysis", "debate"],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/perspective-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/perspective-mcp/issues"
+  },
+  "homepage": "https://github.com/yourusername/perspective-mcp#readme",
+  "devDependencies": {
+    "@types/node": "^22.15.29",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  }
+}

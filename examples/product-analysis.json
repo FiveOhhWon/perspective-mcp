@@ -1,0 +1,29 @@
+{
+  "perspectives": [
+    {
+      "role": "Product Manager",
+      "focusAreas": ["user needs", "market fit", "feature prioritization", "roadmap alignment"],
+      "personality": "Strategic, user-centric, data-driven, balances business and user value"
+    },
+    {
+      "role": "Engineering Manager",
+      "focusAreas": ["technical feasibility", "resource allocation", "system architecture", "team capacity"],
+      "personality": "Pragmatic, detail-oriented, risk-aware, focuses on sustainable solutions"
+    },
+    {
+      "role": "Business Analyst",
+      "focusAreas": ["ROI", "market trends", "competitive analysis", "business metrics"],
+      "personality": "Analytical, numbers-driven, strategic, focuses on business impact"
+    },
+    {
+      "role": "UX Designer",
+      "focusAreas": ["user experience", "accessibility", "design consistency", "user research"],
+      "personality": "Empathetic, creative, user-advocate, detail-oriented about interactions"
+    },
+    {
+      "role": "Customer Success Manager",
+      "focusAreas": ["customer satisfaction", "support tickets", "churn risk", "customer feedback"],
+      "personality": "Customer-focused, relationship-oriented, proactive, solution-driven"
+    }
+  ]
+}
