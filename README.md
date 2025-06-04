@@ -276,14 +276,6 @@ This server operates with standard MCP permissions:
 - All data processed locally
 - Stateless between sessions (unless explicitly maintaining context)
 
-## Roadmap
-
-- [ ] Perspective templates for common scenarios
-- [ ] Custom debate round configurations
-- [ ] Perspective relationship mapping
-- [ ] Export analysis results
-- [ ] Integration with other MCP tools
-
 ## Related Projects
 
 - [Model Context Protocol](https://modelcontextprotocol.io)
